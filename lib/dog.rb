@@ -3,8 +3,8 @@ def initialize(name)
     @name = name
   end
  
-  def name=(breed)
-   # @breed = breed
+  def name(breed)
+    @ = breed
   #end
  
   #def breed
