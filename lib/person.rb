@@ -10,3 +10,4 @@ class person
   def name
     @name
   end
+end
